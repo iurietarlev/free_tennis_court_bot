@@ -1,0 +1,4 @@
+./chromedriver
+.vscode
+./env
+personal_config.yml
