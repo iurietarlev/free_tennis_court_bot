@@ -1,0 +1,6 @@
+CHROME_DRIVER_PATH: ./chromedriver
+URL: https://clubspark.lta.org.uk/<name of your tennis club location>/Booking/
+USERNAME: username@username.com
+PASSWORD: passowrd
+TELEGRAM_BOT_TOKEN: "telegram_bot_token"
+TELEGRAM_BOT_CHAT_ID: "telegram_bot_chat_id"

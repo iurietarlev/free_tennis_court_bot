@@ -1,0 +1,11 @@
+certifi==2020.6.20
+chardet==3.0.4
+DateTime==4.3
+easydict==1.9
+idna==2.10
+pytz==2020.1
+PyYAML==5.3.1
+requests==2.24.0
+selenium==3.141.0
+urllib3==1.25.10
+zope.interface==5.1.0
